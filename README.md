@@ -1,5 +1,7 @@
 From tutorial at https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/?e=gs2020&p=build-a-react-app-intro
 
+Deploys to https://us-east-2.console.aws.amazon.com/amplify/home?region=us-east-2&code=7557514b1d20889b4130#/d3uyokym2eb3xl
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
